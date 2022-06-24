@@ -1,0 +1,18 @@
+[
+  {
+    "package": "IDSL.IPA",
+    "oncran": true
+  },
+  {
+    "package": "IDSL.SUFA",
+    "oncran": true
+  },
+  {
+    "package": "IDSL.UFA",
+    "oncran": true
+  },
+  {
+    "package": "IDSL.UFAx",
+    "oncran": true
+  }
+]
