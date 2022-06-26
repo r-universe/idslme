@@ -9,21 +9,9 @@
 	shallow = true
 	subdir = IDSL.IPA
 	registered = true
-[submodule "IDSL.SUFA"]
-	path = IDSL.SUFA
-	url = https://github.com/idslme/idsl.ufa
-	shallow = true
-	subdir = IDSL.SUFA
-	registered = true
 [submodule "IDSL.UFA"]
 	path = IDSL.UFA
 	url = https://github.com/idslme/idsl.ufa
 	shallow = true
 	subdir = IDSL.UFA
-	registered = true
-[submodule "IDSL.UFAx"]
-	path = IDSL.UFAx
-	url = https://github.com/idslme/idsl.ufa
-	shallow = true
-	subdir = IDSL.UFAx
 	registered = true
