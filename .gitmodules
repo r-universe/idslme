@@ -9,6 +9,12 @@
 	shallow = true
 	subdir = IDSL.IPA
 	registered = true
+[submodule "IDSL.MXP"]
+	path = IDSL.MXP
+	url = https://github.com/idslme/idsl.mxp
+	shallow = true
+	subdir = IDSL.MXP
+	registered = true
 [submodule "IDSL.UFA"]
 	path = IDSL.UFA
 	url = https://github.com/idslme/idsl.ufa
