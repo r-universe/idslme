@@ -1,14 +1,1 @@
-[
-  {
-    "package": "IDSL.IPA",
-    "oncran": true
-  },
-  {
-    "package": "IDSL.MXP",
-    "oncran": true
-  },
-  {
-    "package": "IDSL.UFA",
-    "oncran": true
-  }
-]
+[]
