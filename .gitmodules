@@ -21,3 +21,9 @@
 	shallow = true
 	subdir = IDSL.UFA
 	registered = true
+[submodule "IDSL.UFAx"]
+	path = IDSL.UFAx
+	url = https://github.com/idslme/idsl.ufax
+	shallow = true
+	subdir = IDSL.UFAx
+	registered = true
