@@ -15,6 +15,12 @@
 	shallow = true
 	subdir = IDSL.MXP
 	registered = true
+[submodule "IDSL.SUFA"]
+	path = IDSL.SUFA
+	url = https://github.com/idslme/idsl.sufa
+	shallow = true
+	subdir = IDSL.SUFA
+	registered = true
 [submodule "IDSL.UFA"]
 	path = IDSL.UFA
 	url = https://github.com/idslme/idsl.ufa
