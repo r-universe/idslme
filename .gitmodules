@@ -3,6 +3,12 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IDSL.FSA"]
+	path = IDSL.FSA
+	url = https://github.com/idslme/idsl.fsa
+	shallow = true
+	subdir = IDSL.FSA
+	registered = true
 [submodule "IDSL.IPA"]
 	path = IDSL.IPA
 	url = https://github.com/idslme/idsl.ipa

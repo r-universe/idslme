@@ -1,5 +1,9 @@
 [
   {
+    "package": "IDSL.FSA",
+    "oncran": true
+  },
+  {
     "package": "IDSL.IPA",
     "oncran": true
   },
