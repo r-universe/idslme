@@ -1,5 +1,9 @@
 [
   {
+    "package": "IDSL.CSA",
+    "oncran": true
+  },
+  {
     "package": "IDSL.FSA",
     "oncran": true
   },
@@ -9,6 +13,10 @@
   },
   {
     "package": "IDSL.MXP",
+    "oncran": true
+  },
+  {
+    "package": "IDSL.NPA",
     "oncran": true
   },
   {
