@@ -1,5 +1,13 @@
 [
   {
+    "package": "IDSL.UFA",
+    "oncran": true
+  },
+  {
+    "package": "IDSL.NPA",
+    "oncran": true
+  },
+  {
     "package": "IDSL.CSA",
     "oncran": true
   },
@@ -12,23 +20,15 @@
     "oncran": true
   },
   {
-    "package": "IDSL.MXP",
-    "oncran": true
-  },
-  {
-    "package": "IDSL.NPA",
-    "oncran": true
-  },
-  {
     "package": "IDSL.SUFA",
     "oncran": true
   },
   {
-    "package": "IDSL.UFA",
+    "package": "IDSL.UFAx",
     "oncran": true
   },
   {
-    "package": "IDSL.UFAx",
+    "package": "IDSL.MXP",
     "oncran": true
   }
 ]
